@@ -10,7 +10,7 @@ String apiKey = "Q5TYCH2O72S8PREA";    // Edit this API key according to your Ac
 
 String Host_Name = "CAP";         // Edit Host_Name
 
-String Password = "12345678cpdsmb";          // Edit Password
+String Password = "12345678";          // Edit Password is your WiFi Password
 
 SoftwareSerial ser(2, 3);              // RX, TX
 
